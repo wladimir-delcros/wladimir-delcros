@@ -2,7 +2,7 @@
 ### Founder — Uclic, Agence Growth & IA
 
 [![Website](https://img.shields.io/badge/🌐%20uclic.fr-000000?style=for-the-badge)](https://www.uclic.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimirdelcros/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimir-delcros/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GRlZO8KtB7A)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/episode/6oN7OBOaooqdFnT0czddrc)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/delcros_w)
@@ -117,3 +117,4 @@ GROWTH METRICS        TRACK RECORD        EXPERTISE
 ────────────────────────────────────────────────────  
 • +42% Conv. Rate     • 60+ Startups      • B2B SaaS  
 • 5K€ ROI/Campaign    • 3 Unicorns        • AI & Automation  
+
